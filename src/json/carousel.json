@@ -1,0 +1,124 @@
+{
+    "carousel": [
+        {   
+            "id": "1",
+            "imagem": "imagem1"
+        },
+        {   
+            "id": "2",
+            "imagem": "imagem2"
+        },
+        {   
+            "id": "3",
+            "imagem": "imagem3"
+        }
+    ],
+
+    "hightlight": [
+        {   
+            "id": "1",
+            "nome": "bodyDestaque1",
+            "preco": "R$ 129,00"
+        },
+        {   
+            "id": "2",
+            "nome": "bodyDestaque2",
+            "preco": "R$ 129,00"
+        }
+    ],
+
+    "productscard": [
+        {
+            "id": "1",
+            "nome": "body1",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": false
+        },
+        {   
+            "id": "2",
+            "nome": "body2",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": false
+        },
+        {   
+            "id": "3",
+            "nome": "body3",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": false
+        },
+        {   
+            "id": "4",
+            "nome": "body4",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": false
+        },
+        {
+            "id": "5",
+            "nome": "body5",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": true
+        },
+        {   
+            "id": "6",
+            "nome": "body6",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": false
+        },
+        {   
+            "id": "7",
+            "nome": "body7",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": false
+        },
+        {   
+            "id": "8",
+            "nome": "body8",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": false
+        },
+        {
+            "id": "9",
+            "nome": "body9",
+            "preco": "R$ 129,00",
+            "novidade": true,
+            "destaque": false
+        },
+        {   
+            "id": "10",
+            "nome": "body10",            
+            "preco": "R$ 129,00",
+            "novidade": true,
+            "destaque": false
+        },
+        {   
+            "id": "11",
+            "nome": "body11",
+            "preco": "R$ 129,00",
+            "novidade": true,
+            "destaque": false
+        },
+        {   
+            "id": "12",
+            "nome": "body12",
+            "preco": "R$ 129,00",
+            "novidade": true,
+            "destaque": false
+        },
+        {   
+            "id": "13",
+            "nome": "body13",
+            "preco": "R$ 129,00",
+            "novidade": false,
+            "destaque": true
+        }
+    ]
+
+}
